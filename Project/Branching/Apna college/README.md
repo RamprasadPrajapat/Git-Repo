@@ -1,1 +1,1 @@
-hi this readme file in apna college
+This readme file in apna college
